@@ -1,0 +1,15 @@
+PERSON Bob Jones
+PLACE Washington
+ANIMAL 
+PERSON Mary
+COMPUTER Mac
+PERSON Bob Jones
+OTHER Tree
+
+
+ANIMAL Dog
+PlACE Texas
+FOOD Steak
+PLACE New Mexico
+COUNTRY USA 
+
